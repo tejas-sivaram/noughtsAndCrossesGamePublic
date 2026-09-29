@@ -1,0 +1,1 @@
+App.java is a basic, 3x3 version of the game. NoughtsAndCrossesApp.java is a more sophisticated, customisable version which offers names, scores and variable gameboard size. I am currently working on making an AI which can play.
